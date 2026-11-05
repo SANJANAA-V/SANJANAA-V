@@ -141,29 +141,32 @@ An event-driven platform designed to reconstruct e-commerce product-return journ
 
 ---
 
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANJANAA-V&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SANJANAA-V&theme=rose_pine" width="100%" alt="Contribution Activity Graph" />
 
 </div>
+
+---
+
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/SANJANAA-V/SANJANAA-V/output/github-contribution-grid-snake.svg"
-    width="100%"
-    alt="Contribution Snake"
-  />
+
+<img src="https://raw.githubusercontent.com/SANJANAA-V/SANJANAA-V/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake" />
+
 </div>
+
+---
 
 <div align="center">
 
 ### 🌸 A little progress every day adds up to big results.
 
 *Building. Learning. Experimenting. Repeating.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" />
 
 </div>
