@@ -1,6 +1,6 @@
 <div align="center">
 
-# # ✨ SANJANAA V ✨
+#  ✨ SANJANAA V ✨
 
 ### AI/ML Engineer in the Making | B.Tech IT Student | Problem Solver
 
