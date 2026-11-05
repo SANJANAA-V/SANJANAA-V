@@ -135,16 +135,19 @@ An event-driven platform designed to reconstruct e-commerce product-return journ
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SANJANAA-V&show_icons=true&theme=rose_pine&hide_border=true&title_color=E879A8&icon_color=E879A8" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANJANAA-V&layout=compact&theme=rose_pine&hide_border=true&title_color=E879A8" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=SANJANAA-V&theme=rose_pine&hide_border=true" />
+<img width="80%" src="https://streak-stats.demolab.com?user=SANJANAA-V&theme=rose_pine&hide_border=true" alt="GitHub Streak Stats" />
 
 </div>
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SANJANAA-V&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+
+</div>
 ## 🐍 Contribution Graph
 
 <div align="center">
