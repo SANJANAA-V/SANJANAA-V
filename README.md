@@ -151,12 +151,12 @@ An event-driven platform designed to reconstruct e-commerce product-return journ
 ## 🐍 Contribution Graph
 
 <div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/SANJANAA-V/SANJANAA-V/output/github-contribution-grid-snake.svg)
-
+  <img
+    src="https://raw.githubusercontent.com/SANJANAA-V/SANJANAA-V/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Contribution Snake"
+  />
 </div>
-
----
 
 <div align="center">
 
