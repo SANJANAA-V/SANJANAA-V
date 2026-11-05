@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="art/header-dark.svg" alt="SANJANAA V GitHub Banner" width="100%">
+  <img src="./header-dark.svg" alt="SANJANAA V" width="100%">
 </div>
 
 <div align="center">
