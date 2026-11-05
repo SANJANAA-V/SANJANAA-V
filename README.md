@@ -49,12 +49,26 @@ Hey there! I'm **Sanjanaa**, a second-year Information Technology undergraduate 
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow" />
 </p>
 
-![Pandas](https://img.shields.io/badge/Pandas-E879A8?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-E879A8?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-E879A8?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-E879A8?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-E879A8?style=flat-square)
-![LLMs](https://img.shields.io/badge/LLMs-E879A8?style=flat-square)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LightGBM-7AB648?style=for-the-badge" height="35" alt="LightGBM"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/RAG-E879A8?style=for-the-badge" height="35" alt="RAG"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/LLMs-9B7EBD?style=for-the-badge" height="35" alt="LLMs"/>
+</p>
+
+
+
+
+
+
+
 
 ### Backend & Tools
 <p>
