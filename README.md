@@ -75,7 +75,17 @@ Hey there! I'm **Sanjanaa**, a second-year Information Technology undergraduate 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker,kafka,git,github,vscode" />
 </p>
 
-**Also familiar with:** REST APIs, Data Preprocessing, Feature Engineering, Model Evaluation, Text Classification, OOP and DSA.
+### Other Technical Concepts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST_APIs-E879A8?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Data_Preprocessing-D98BB5?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Feature_Engineering-C58ABF?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Model_Evaluation-B58BCB?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Text_Classification-9B83C7?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/OOP-8876B8?style=for-the-badge" height="35"/>
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-7566A8?style=for-the-badge" height="35"/>
+</p>
 
 ---
 
